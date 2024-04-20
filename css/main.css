@@ -136,19 +136,3 @@ video.frame-media_left {
 	cursor: pointer;
 	width: 300px;
 }
-
-.frame__contenttt{
-	position: fixed;
-	bottom: 70vh;
-	right: 15vw;
-	cursor: pointer;
-	width: 300px;
-}
-
-.frame__contentttt{
-	position: fixed;
-	bottom: 45vh;
-	right: 25vw;
-	cursor: pointer;
-	width: 200px;
-}
